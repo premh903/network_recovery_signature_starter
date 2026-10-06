@@ -1,0 +1,10 @@
+NETWORK RECOVERY SIGNATURE REPORT
+=================================
+Baseline median RTT: 0.973 ms
+Baseline loss rate: 0.00%
+Baseline RTT jitter (window std. dev.): 0.157 ms
+
+Recovery signature (time after impairment ended):
+RTT recovery time: 10.0 s
+Loss recovery time: 10.0 s
+Jitter recovery time: 15.0 s
